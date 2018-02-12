@@ -1,0 +1,15 @@
+{
+  "name": "mynatours",
+  "version": "1.0.0",
+  "description": "Landing page for my Natours",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Tabbatha",
+  "license": "ISC"
+}

@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Landing page for my Natours",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "node-sass": "^4.7.2"
   },
